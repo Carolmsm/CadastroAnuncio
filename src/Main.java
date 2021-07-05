@@ -21,7 +21,7 @@ public class Main {
         execute = true;
         dados = new ArrayList<Dados>();
 
-        System.out.println("BEM VINDO AO CADASTRO DE USUÁRIOS");
+        System.out.println("BEM VINDO AO CADASTRO DE ANÚNCIOS");
 
         while (execute) {
             String opcao = menu();
